@@ -19,7 +19,7 @@
 
 - How to reach me **andyvalencia.cs@gmail.com**
 
-- Know about my experiences [https://www.andyvalencia.dev/reports/123Res.pdf](https://www.andyvalencia.dev/reports/123Res.pdf)
+- Know about my experiences [https://github.com/andyV-323/andyV-323.github.io/blob/main/img/AndyValencia.pdf](https://www.andyvalencia.dev/img/AndyValencia.pdf)
 
 - ⚡ Fun fact **I like to build PCs**
 
