@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyv-323" alt="andyv-323" /></a> </p>
 
-- I’m currently working on **Web Development**
+- I’m currently working on **AWS**
 
-- I’m currently learning **Web Development**
+- I’m currently learning **AWS**
 
 - All of my projects are available at [https://www.andyvalencia.dev](https://www.andyvalencia.dev)
 
-- Ask me about **Android Development, Mobile App Development, Java**
+- Ask me about **Android Development, Mobile App Development, Java, Frontend and Backend Development**
 
 - How to reach me **andyvalencia.cs@gmail.com**
 
