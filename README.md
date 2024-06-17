@@ -13,7 +13,7 @@
 
 - I’m currently learning **AWS**
 
-- All of my projects are available at [https://www.andyvalencia.dev](https://www.andyvalencia.dev)
+- All of my projects are available at [https://www.andyvalencia.com](https://www.andyvalencia.com)
 
 - Ask me about **Android Development, Mobile App Development, Java, Frontend and Backend Development**
 
