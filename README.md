@@ -52,7 +52,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg " alt="aws" width="40" height="40"/>
+    <img src="https://icon2.cleanpng.com/20180817/vog/8968d0640f2c4053333ce7334314ef83.webp" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
