@@ -14,7 +14,6 @@
 - All of my projects are available at [https://www.andyvalencia.com](https://www.andyvalencia.com)
 - Ask me about **Javascript, Amazon Web Services, Reactjs, UI/UX, Fullstack Web Development**
 - How to reach me **andyvalencia.cs@gmail.com**
-- Know about my experiences [Resume PDF](https://github.com/andyV-323/andyV-323.github.io/blob/main/img/AndyValencia.pdf)
 - ⚡ Fun fact **I like to build PCs, Mod Games**
 
 <h3 align="left">Education:</h3>
@@ -103,25 +102,25 @@
 
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
-  <a href="https://github.com/andyV-323/your-project-name" target="_blank">
-    <strong>Project 1</strong>: A brief description of the project and the technologies used.
+  <a href="https://andyvalencia.com/projects" target="_blank">
+    <strong>Projects</strong>
   </a>
 </p>
 
 <h3 align="left">Skills:</h3>
 <ul>
-  <li>Cloud Computing: AWS, Azure</li>
+  <li>Cloud Computing: AWS</li>
   <li>Programming Languages: JavaScript, Python, Java, C#</li>
   <li>Frontend: React.js, HTML/CSS, TailwindCSS</li>
   <li>Backend: Node.js, Express.js</li>
-  <li>Tools: Git, Docker, Jenkins</li>
+  <li>Tools: Git</li>
 </ul>
 
 <h3 align="left">Hobbies and Interests:</h3>
 <p align="left">
   - Building PCs and exploring new hardware
   - Modding games and contributing to game development communities
-  - Traveling and exploring new technologies
+  - Exploring new technologies
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyv-323&show_icons=true&locale=en&layout=compact" alt="andyv-323" /></p>
