@@ -21,7 +21,7 @@
 <p align="left">
   - Bachelor's Degree in Computer Science, <strong>California State University, Dominguez Hills</strong>, 
   <a href="https://www.csudh.edu/" >
-    <img src="https://www.csudh.edu/Assets/csudh-sites/brand/images/2018-06-18-csudh-logo-stacked-2-lines-on-white.png" alt="CSUDH" width="40" height="300" />
+    <img src="https://www.csudh.edu/Assets/csudh-sites/brand/images/2018-06-18-csudh-logo-stacked-2-lines-on-white.png" alt="CSUDH" width="300" height="50" />
   </a>
 </p>
 
