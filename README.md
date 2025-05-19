@@ -17,6 +17,17 @@
 - Know about my experiences [Resume PDF](https://github.com/andyV-323/andyV-323.github.io/blob/main/img/AndyValencia.pdf)
 - ⚡ Fun fact **I like to build PCs, Mod Games**
 
+<h3 align="left">Education:</h3>
+<p align="left">
+  - Bachelor's Degree in Computer Science, [University Name], [Graduation Year]
+</p>
+
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  - AWS Certified Cloud Practitioner
+  - Android App Development Certificate from [Institute Name]
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/andyvalencia" target="_blank">
@@ -69,12 +80,6 @@
   <a href="https://github.com/andyV-323/your-project-name" target="_blank">
     <strong>Project 1</strong>: A brief description of the project and the technologies used.
   </a>
-</p>
-
-<h3 align="left">Certifications:</h3>
-<p align="left">
-  - AWS Certified Solutions Architect – Associate (In Progress)
-  - [Other Certifications]
 </p>
 
 <h3 align="left">Skills:</h3>
