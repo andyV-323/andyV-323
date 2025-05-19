@@ -28,7 +28,8 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  - AWS Certified Cloud Practitioner
+  - AWS Certified Cloud Practitioner  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"> <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/clf-badge-resized.d641db1401f3fe13f9e67b68f29ea1f898757f8b.png" alt="LBCC" width="200" height="60" /></a> </p>
+  <p align="left">
   - Android App Development Certificate from Long Beach City College <a href="https://www.lbcc.edu"> <img src="https://www.lbcc.edu/sites/default/themes/dtheme/img/logo-theme.svg" alt="LBCC" width="200" height="60" /> </a>
 </p>
 
