@@ -39,7 +39,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andyvalencia" height="30" width="40" />
   </a>
   <a href="https://github.com/andyV-323" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="40" height="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1048px-Octicons-mark-github.svg.png" alt="GitHub" width="40" height="40" />
   </a>
 </p>
 
