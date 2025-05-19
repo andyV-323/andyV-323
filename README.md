@@ -91,7 +91,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://pngate.com/wp-content/uploads/2025/05/taiwindcss-tailwind-css-logo-blue-wave-symbol-design-1.png" alt="xml" width="40" height="40"/>
+    <img src="https://pngate.com/wp-content/uploads/2025/05/tailwindcss-tailwind-css-logo-blue-wave-symbol-design-1.png" alt="xml" width="40" height="40"/>
   </a>
   <a href="https://www.xml.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/31053/xml.svg" alt="xml" width="40" height="40"/>
