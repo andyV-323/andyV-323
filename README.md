@@ -29,7 +29,7 @@
 <h3 align="left">Certifications:</h3>
 <p align="left">
   - AWS Certified Cloud Practitioner
-  - Android App Development Certificate from [Institute Name]
+  - Android App Development Certificate from Long Beach City College <a href="https://www.lbcc.edu"> <img src="https://www.lbcc.edu/sites/default/themes/dtheme/img/logo-theme.svg" alt="LBCC" width="200" height="60" /> </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
