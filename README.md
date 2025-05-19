@@ -19,7 +19,7 @@
 
 <h3 align="left">Education:</h3>
 <p align="left">
-  - Bachelor's Degree in Computer Science, [University Name], [Graduation Year]
+  - Bachelor's Degree in Computer Science, **California State University, Dominguez Hills**, <a href="https://www.csudh.edu/Assets/csudh-sites/brand/images/2018-06-18-csudh-logo-stacked-2-lines-on-white.png" alt="CSUDH" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Certifications:</h3>
